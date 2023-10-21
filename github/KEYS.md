@@ -15,6 +15,7 @@
 | **Ctrl+Shift+C** | Copy by anchors |
 | **Ctrl+Shift+Alt+C** | Copy by pixels |
 | **Ctrl+Shift+V** | Paste |
+| **x** | New Element |
 
 # Русский
 
